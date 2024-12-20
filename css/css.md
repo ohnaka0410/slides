@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: false
 theme: gaia
 class:
   - invert
@@ -12,9 +12,9 @@ _class:
   - lead
 -->
 
-<!-- ![bg left:40% 30%](./assets/logo.png) -->
+<!-- ![bg left:40% 30%](./assets/css.png) -->
 
-![h:200px](./assets/logo.png)
+![h:200px](./assets/css.png)
 
 # ?
 
@@ -25,9 +25,9 @@ _class:
   - lead
 -->
 
-<!-- ![bg left:40% 30%](./assets/logo.png) -->
+<!-- ![bg left:40% 30%](./assets/css.png) -->
 
-![h:200px](./assets/logo.png)
+![h:200px](./assets/css.png)
 
 # CSS Architecture
 
@@ -39,8 +39,8 @@ _class:
 
 - yuki ohnaka
 - 株式会社ナンバーフォー 🍀
-  - **Front-end** / Server-side / Native-App engineer
-- Vue / React / TypeScript / Java / PHP / Kotlin / Swift / Python / Docker / Ansible ...
+  - **Front-end** / Server-side / Native-App engineer / AWS engineer
+- **Web Components** / Vue / React / **TypeScript** / Java / PHP / Kotlin / Swift / Python / Docker / AWS ...
 - [Qiita](https://qiita.com/yuki0410_) / [Zenn](https://zenn.dev/yuki0410)
 
 ---
