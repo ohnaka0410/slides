@@ -39,8 +39,8 @@ _class:
 
 - yuki ohnaka
 - 株式会社ナンバーフォー 🍀
-  - **Front-end** / Server-side / Native-App engineer / AWS engineer
-- **Web Components** / Vue / React / **TypeScript** / Java / PHP / Kotlin / Swift / Python / Docker / AWS ...
+  - **Front-end** / Server-side / Native-App / AWS engineer
+- **Web Components** / React / **TypeScript** / Node.js / Docker / AWS / Vue / Java / PHP / Kotlin / Swift / Python ...
 - [Qiita](https://qiita.com/yuki0410_) / [Zenn](https://zenn.dev/yuki0410)
 
 ---
